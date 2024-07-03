@@ -1,0 +1,11 @@
+[
+    {
+        "id": "20240703_1",
+        "category": "accommodations",
+        "desc": "Cabin in the Woods",
+        "detail": "Lorem ipsum",
+        "address": { "street": "1 Named Street", "suite": "", "city": "Homer", "zipcode": 10000, "geo": { "lat": "-12.2222", "lng": "21.2222"} },
+        "email": "someone@domain.co",
+        "links": [ "https://google.com", "https://duckduckgo.com" ]
+    }
+]
